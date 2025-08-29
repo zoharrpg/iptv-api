@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250829083605 +0800">
+<tv date="20250829110434 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -29586,6 +29586,12 @@
 	<programme channel="黑莓动画" start="20250829134000 +0800" stop="20250829142900 +0800">
 		<title lang="zh">02_孟浩然 故人</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250829142900 +0800" stop="20250829151800 +0800">
+		<title lang="zh">03_王维 长安</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250829151800 +0800" stop="20250829160700 +0800">
+		<title lang="zh">04_岑参 边塞</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -29612,6 +29618,12 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250829123700 +0800" stop="20250829140500 +0800">
 		<title lang="zh">憨豆特工3</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250829140500 +0800" stop="20250829153800 +0800">
+		<title lang="zh">反贪风暴之加密危机</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250829153800 +0800" stop="20250829170500 +0800">
+		<title lang="zh">我的锦鲤男友</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
